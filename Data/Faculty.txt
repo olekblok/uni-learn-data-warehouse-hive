@@ -1,0 +1,10 @@
+1,Science
+2,Engineering
+3,Arts and Humanities
+4,Business Administration
+5,Computer Science
+6,Health Sciences
+7,Social Sciences
+8,Mathematics
+9,Environmental Studies
+10,Education

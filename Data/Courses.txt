@@ -1,0 +1,50 @@
+1,Mathematics 101,3,6
+2,English Composition,4,9
+3,History of Art,3,2
+4,Computer Science Fundamentals,5,7
+5,Chemistry Basics,4,4
+6,Introduction to Economics,3,1
+7,Physics for Beginners,4,8
+8,Spanish Language,3,3
+9,Psychology 101,5,10
+10,Business Ethics,3,5
+11,Environmental Science,4,3
+12,French Literature,3,6
+13,Algebraic Structures,5,1
+14,Introduction to Programming,4,2
+15,Marketing Principles,3,8
+16,World Religions,4,10
+17,Statistics and Probability,5,9
+18,Political Science Basics,3,7
+19,Organic Chemistry,4,4
+20,Data Analysis with Python,5,5
+21,Introduction to Sociology,3,2
+22,Linear Algebra,4,9
+23,Web Development Fundamentals,5,10
+24,Public Speaking,3,7
+25,Artificial Intelligence Concepts,4,6
+26,Financial Accounting,5,7
+27,Geography and Geopolitics,3,1
+28,Human Anatomy,4,2
+29,Communication Skills,3,4
+30,Machine Learning Basics,5,5
+31,Ethics in Technology,3,6
+32,Introduction to Philosophy,4,9
+33,Software Engineering Principles,5,1
+34,Organizational Behavior,3,8
+35,Principles of Marketing,4,10
+36,Introduction to Anthropology,3,2
+37,Discrete Mathematics,5,9
+38,Mobile App Development,4,8
+39,Financial Management,5,1
+40,Social Psychology,3,4
+41,Database Systems,4,10
+42,Entrepreneurship,3,5
+43,Introduction to Linguistics,4,2
+44,Operations Management,5,9
+45,Creative Writing,3,6
+46,International Relations,4,2
+47,Computer Networks,5,5
+48,Health and Wellness,3,8
+49,Game Design Fundamentals,4,3
+50,Philosophy of Science,3,10
